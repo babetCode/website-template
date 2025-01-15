@@ -1,0 +1,3 @@
+[submodule "themes/babets-theme"]
+	path = themes/babets-theme
+	url = https://github.com/babetCode/my-hextra-hugo-theme
